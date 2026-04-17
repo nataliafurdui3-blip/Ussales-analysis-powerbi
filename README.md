@@ -1,24 +1,42 @@
-# Sales Analysis Project
+# 📊 Sales Performance Analysis
 
-## 📊 Overview
-Analysis of sales data to identify key revenue drivers, trends, and regional performance.
+## 📌 Overview
+This project analyzes sales data to identify key revenue drivers, trends, and regional performance. The goal is to extract actionable insights for business decision-making.
 
 ## 📁 Dataset
-- Orders: 4,922
-- Total Revenue: $1.11B
+- Total Orders: 4,922  
+- Total Revenue: $1.11B  
+- Average Check: $226K  
 
-## 🔍 Key Insights
-- Revenue shows steady year-over-year growth
-- Peak sales in September and November (seasonality)
-- Furniture category generates 49% of total revenue
-- Top 10 products contribute $198.4M
-- California, Texas, New York generate $595M
+## 📈 Key Analysis
+
+### 1. Overall Performance
+- High total revenue ($1.11B) with relatively low number of orders indicates a high average order value.
+
+### 2. Sales Trend
+- Steady year-over-year growth, suggesting business expansion and increasing demand.
+
+### 3. Seasonality
+- Sales peaks in **September and November**, likely due to seasonal demand or promotions.
+
+### 4. Product Categories
+- **Furniture** generates 49% of total revenue, making it the key revenue driver.
+
+### 5. Top Products
+- Top 10 products contribute **$198.4M**, indicating strong sales concentration.
+
+### 6. Regional Performance
+- Top states: **California, Texas, New York**
+- Combined revenue: **$595M**
 
 ## 💡 Business Recommendations
-- Focus on high-performing regions
-- Optimize product assortment (top products)
-- Leverage seasonal peaks for marketing campaigns
+- Focus on high-performing regions for growth  
+- Optimize product assortment (focus on top-performing products)  
+- Leverage seasonal peaks for marketing campaigns  
 
 ## 🛠 Tools
-- Power BI
-- SQL (PostgreSQL)
+- Power BI  
+- SQL (PostgreSQL)  
+
+## 📷 Dashboard
+(Add screenshot here)
