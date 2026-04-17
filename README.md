@@ -39,4 +39,5 @@ This project analyzes sales data to identify key revenue drivers, trends, and re
 - SQL (PostgreSQL)  
 
 ## 📷 Dashboard
-(Add screenshot here)
+<img width="1920" height="1080" alt="Анализ продаж" src="https://github.com/user-attachments/assets/2e7db9f5-ac97-43c6-8430-1a2addeb1113" />
+
